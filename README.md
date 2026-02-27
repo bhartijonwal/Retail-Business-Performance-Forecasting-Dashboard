@@ -1,14 +1,6 @@
 # Retail-Business-Performance-Forecasting-Dashboard
 
-#Tools Used - 
-
-   Microsoft Excel
-
-   Pivot Tables
-
-   Forecast Sheet (ETS)
-
-   What-if Analysis
+#Tools Used - Microsoft Excel, Pivot Tables, Forecast Sheet (ETS), What-if Analysis
 
 1. Objective
 
