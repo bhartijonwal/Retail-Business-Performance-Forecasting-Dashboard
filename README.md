@@ -2,13 +2,13 @@
 
 #Tools Used - 
 
-Microsoft Excel
+   Microsoft Excel
 
-Pivot Tables
+   Pivot Tables
 
-Forecast Sheet (ETS)
+   Forecast Sheet (ETS)
 
-What-if Analysis
+   What-if Analysis
 
 1. Objective
 
