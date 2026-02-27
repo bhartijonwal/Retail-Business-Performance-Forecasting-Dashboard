@@ -1,10 +1,18 @@
 # Retail-Business-Performance-Forecasting-Dashboard
 
-#Tool Used: Microsoft Excel
+#Tools Used - 
+
+Microsoft Excel
+
+Pivot Tables
+
+Forecast Sheet (ETS)
+
+What-if Analysis
 
 1. Objective
 
-This project analyzes retail sales performance using Excel dashboard techniques including KPI modeling, regional analysis, customer segmentation, and revenue forecasting.
+This project demonstrates Excel-based retail analytics including KPI tracking, customer segmentation, regional performance analysis, and revenue forecasting using ETS modeling.
 
 2. Key Performance Overview
 
@@ -16,15 +24,17 @@ Profit Margin: 11.62%
 
 Average Discount: 14.29%
 
-3. Major Insights
+3. Key Features
 
-Revenue shows consistent upward trend from 2011 to 2014.
+Interactive slicers (Year & Region)
 
-Technology category contributes highest profit.
+KPI cards
 
-Moderate value customers represent 50% of customer base.
+Customer value segmentation
 
-Forecast model predicts continued growth next quarter.
+Revenue forecasting with confidence intervals
+
+Executive report documentation
 
 4. Business Recommendation
 
