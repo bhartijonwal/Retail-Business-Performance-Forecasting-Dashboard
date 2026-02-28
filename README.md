@@ -11,30 +11,43 @@ This project demonstrates Excel-based retail analytics including KPI tracking, c
 
 2. Key Performance Overview
 
-Total Sales: $1,26,42,905.00
+-Total Sales: $1,26,42,905.00
 
-Total Profit: $14,69,034.82
+-Total Profit: $14,69,034.82
 
-Profit Margin: 11.62%
+-Profit Margin: 11.62%
 
-Average Discount: 14.29%
+-Average Discount: 14.29%
 
 3. Key Features
 
-Interactive slicers (Year & Region)
+-Interactive slicers (Year & Region)
 
-KPI cards
+-KPI cards
 
-Customer value segmentation
+-Customer value segmentation
 
-Revenue forecasting with confidence intervals
+-Revenue forecasting with confidence intervals
 
-Executive report documentation
+-Executive report documentation
 
-4. Business Recommendation
+4. Dashboard Components
 
-Focus on high-margin categories.
+ 1) Monthly Revenue Trend
+Tracks quarter-wise/monthly movement to reveal growth consistency and seasonality patterns.
 
-Reduce excessive discounting.
+2) Category Profit Analysis
+Compares profitability by category (e.g., Furniture, Office Supplies, Technology) to identify high-margin focus areas.
 
-Strengthen high-performing regions.
+ 3) Customer Value Distribution
+Segments customers into **High / Moderate / Low value** buckets to support retention and targeting strategy.
+
+ 4) Region Sales Breakdown
+Ranks regional contribution to identify expansion opportunities and underperforming geographies.
+
+ 5) Forecasted Revenue (ETS)
+Projects future revenue and visualizes **confidence bounds** to support realistic planning under uncertainty.
+
+5. Dashboard Preview
+
+![https://github.com/bhartijonwal/Retail-Business-Performance-Forecasting-Dashboard/blob/main/Screenshot%202026-02-27%20221535.png)
