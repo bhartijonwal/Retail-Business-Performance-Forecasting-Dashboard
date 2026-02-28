@@ -1,6 +1,7 @@
 # Retail-Business-Performance-Forecasting-Dashboard
 
 #Tools Used - Microsoft Excel, Pivot Tables, Forecast Sheet (ETS), What-if Analysis
+
 #[Dataset Used](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset/data) 
 
 
